@@ -1,0 +1,585 @@
+
+
+          #sigNetworkModule1-fdrSIGNAT{
+            background-color: #FFFFFF;
+            font-size: 14px;
+          }
+
+          #sigNetworkModule1-scorethreshSIGNAT{
+            background-color: #FFFFFF;
+            font-size: 14px;
+          }
+
+
+          #sigNetworkModule1-poolset{
+            background-color: #FFFFFF;
+            font-size: 14px;
+          }
+
+          .shiny-output-error {
+              font-size: 14px;
+              font-weight: bold;
+          }
+
+          #sigNetworkModule1-formula {
+             font-size: 20px;
+             font-weight: 800!important;
+				        }
+
+
+				  #sigNetworkModule1-smiles {
+				     font-size: 20px;
+             font-weight: 800!important;
+				        }
+
+          #cmpSERV-selectized {
+              white-space: nowrap;
+              font-size: 16px;
+              width: 600px;
+              height: 50px;
+              border-radius: 0px;
+              border: 2px solid #000066;
+              font-weight: bold;
+              border-color: #4d88ff;
+              color:#333;
+                  }
+
+           #visNetwork1-cmpMOD-selectized {
+              white-space: nowrap;
+              font-size: 16px;
+              width: 250px;
+              height: 50px;
+              border-radius: 0px;
+              border: 2px solid #000066;
+              font-weight: bold;
+              border-color: #4d88ff;
+              color:#333;
+                  }
+          #sigNetworkModule1-respMOD-selectized{
+              white-space: nowrap;
+              font-size: 16px;
+              width: 600px;
+              height: 50px;
+              border-radius: 0px;
+              border: 2px solid #000066;
+              font-weight: bold;
+              border-color: #4d88ff;
+              color:#333;
+                  }
+
+            #resetCmp {
+              background-color: #000066!important;
+              color: white!important;
+              cursor: pointer!important;
+              border: 8px solid #4d88ff!important;
+            }
+
+            #resetCmp:hover {
+             background-color: #4d88ff!important;
+              color: white!important;
+              cursor: pointer!important;
+              cursor: hand;
+
+              border: 8px solid #000066!important;
+            }
+
+           .btn .btn>.btn-default {
+              border: 8px solid #4d88ff!important;
+              color: white!important;
+              background-color: #000066!important;
+              }
+
+            #downloadhip {
+              background-color: #000066;
+              color: white;
+              /* font-size: 16px; */
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #downloadhip:hover {
+             background-color: #4d88ff;
+              color: white;
+              cursor: pointer;
+              cursor: hand;
+
+              border: 8px solid #000066;
+            }
+            #downloadhop {
+              background-color: #000066;
+              color: white;
+              /*font-size: 16px;*/
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #downloadhop:hover {
+             background-color: #4d88ff;
+              color: white;
+              cursor: pointer;
+              cursor: hand;
+
+              border: 8px solid #000066;
+            }
+
+            #ExportessPlot {
+              background-color: #000066;
+              color: white;
+              /* font-size: 16px; */
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #ExportessPlot:hover {
+             background-color: #4d88ff;
+              color: white;
+              cursor: pointer;
+              cursor: hand;
+
+              border: 8px solid #000066;
+            }
+
+            #ExportnonPlot {
+              background-color: #000066;
+              color: white;
+              /* font-size: 16px; */
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #ExportnonPlot:hover {
+             background-color: #4d88ff;
+              color: white;
+              cursor: pointer;
+              cursor: hand;
+
+              border: 8px solid #000066;
+            }
+
+            #downloadcoinhib {
+              background-color: #000066;
+              color: white;
+              /* font-size: 16px; */
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #downloadcoinhib:hover {
+             background-color: #4d88ff;
+              color: white;
+              cursor: pointer;
+              cursor: hand;
+
+              border: 8px solid #000066;
+            }
+
+            #downloadcoinh {
+              background-color: #000066;
+              color: white;
+              /* font-size: 16px; */
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #downloadcoinh:hover {
+             background-color: #4d88ff;
+              color: white;
+              border: 8px solid #000066;
+            }
+
+
+            #visNetwork1-enrichdownload {
+              background-color: #000066;
+              color: white;
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #visNetwork1-enrichdownload:hover {
+             background-color: #4d88ff;
+              color: white;
+              cursor: pointer;
+              cursor: hand;
+              border: 8px solid #000066;
+            }
+
+            #rankGO {
+              background-color: #000066;
+              color: white;
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #rankGO:hover {
+             background-color: #4d88ff;
+              color: white;
+              cursor: pointer;
+              cursor: hand;
+              border: 8px solid #000066;
+            }
+
+            #enrichdownload {
+              background-color: #000066;
+              color: white;
+              /* font-size: 16px; */
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #enrichdownload:hover {
+             background-color: #4d88ff;
+              color: white;
+              cursor: pointer;
+              cursor: hand;
+
+              border: 8px solid #000066;
+            }
+
+            #downloadcofitness {
+              background-color: #000066;
+              color: white;
+              /* font-size: 16px; */
+              cursor: pointer;
+              border: 8px solid #4d88ff;
+            }
+
+            #downloadcofitness:hover {
+             background-color: #4d88ff;
+              color: white;
+              cursor: pointer;
+              cursor: hand;
+
+              border: 8px solid #000066;
+            }
+
+          .box {
+             align-items: center;
+                }
+
+
+          .box-title {
+              font-weight: bold;
+              font-size: 20px;
+              color:#FFFFFF!important;
+              background:#4d88ff!important;
+                }
+
+
+          .box.box-solid.box-primary>.box-header {
+              color:#FFFFFF!important;
+              background:#4d88ff!important;
+                }
+
+
+          .box box-solid box-primary {
+          		border: 3px solid #000066!important;
+              border-bottom-color:#000066!important;
+              border-left-color:#000066!important;
+              border-right-color:#000066!important;
+              border-top-color:#000066!important;
+                }
+
+
+    			.box.box-solid.box-primary bg-navy>.box-header {
+              color:#FFFFFF!important;
+              background:#000066!important;
+                }
+
+      		.box box-solid box-primary bg-navy {
+        			border: 8px solid #4d88ff!important;
+        			border-bottom-color:#4d88ff!important;
+              border-left-color:#4d88ff!important;
+              border-right-color:#4d88ff!important;
+              border-top-color:#4d88ff!important;
+        			background-color:#000066!important;
+      	      	}
+
+
+           table.dataTable tbody {
+              color: black !important;
+              font-size: 16px;
+              font-weight: bold !important;
+                }
+
+          table.dataTable {
+                width: 100%;
+                font-weight: bold;
+                font-size: 16px;
+                  }
+
+          table.dataTable thead, table.dataTable tfoot {
+                background-color: #000066 !important;
+                color: #FFFFFF !important;
+                font-size: 40px;
+                font-weight: bold;
+                     }
+
+          table.dataTable thead,
+                table.dataTable tfoot {
+                background-color: #000066!important;
+                color: #FFFFFF!important;
+                font-size: 14px;
+                font-weight:bold;
+                }
+
+            table.dataTable tbody tr td {
+                font-weight: bold;
+                color: #333!important;
+              }
+
+            tr:hover {
+              background-color:#c6c6ec8c!important;
+
+            }
+
+            table.dataTable tbody tr.selected>* {
+                background-color:#c6c6ec8c!important;
+                color: #333!important;
+                }*/
+
+
+         .control-label {
+            font-size: 11pt;
+            color: black;
+            font-weight: bold;
+            }
+
+
+         .irs-grid-text {
+          font-size: 11pt;
+          font-weight: bold;
+          white-space: nowrap;
+               }
+
+        .colorkey {width: 150px}
+        .legend_key {width:60%;}
+
+        .irs-min, .irs-max {
+          font-size: 14pt;
+          color:#000066k;
+          font-weight: bold;
+               }
+
+        .irs {
+          font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+              }
+
+        .irs--shiny .irs-min, .irs--shiny .irs-max {
+         top: 0;
+          padding: 1px 3px;
+          text-shadow: none;
+          background-color: #FFFFFF;
+          border-radius: 3px;
+          font-size: 16px;
+          line-height: 1.333;
+               }
+
+        /* logo */
+        .skin-blue .main-header .logo {
+            background-color: #000066;
+                    }
+
+        .skin-blue .main-header .logo {
+           background-color: #000066!important;
+           color: #FFFFFF;
+        }
+
+        /* logo when hovered */
+        .skin-blue .main-header .logo:hover {
+           background-color: #000066!important;
+        }
+
+        .main-header .logo {
+          font-family: 'Calibria', Arial, sans-serif;
+          font-weight: bold;
+          font-size:24px;
+
+        }
+        /* navbar (rest of the header) */
+        skin-blue .main-header .navbar {
+            background-color: #000066!important;
+            font-weight: bold;
+        }
+
+
+        /* main sidebar */
+        .skin-blue .main-sidebar {
+                              background-color: #000066;
+        }
+
+       .main-sidebar {
+            background-color: #000066;
+          }
+
+        /* active selected tab in the sidebarmenu */
+        .skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+                              background-color: #4d88ff;
+                              }
+
+        /* other links in the sidebarmenu */
+        .skin-blue .main-sidebar .sidebar .sidebar-menu a{
+                              background-color: #000066;
+                              color: #FFFFFF;
+                              }
+
+        /* other links in the sidebarmenu when hovered */
+         .skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+                              background-color: #4d88ff;
+                              color: #FFFFFF;
+         }
+
+
+        /* toggle button when hovered  */
+         .skin-blue .main-header .navbar .sidebar-toggle:hover{
+                              background-color: #4d88ff;
+                             color:  #000000;
+                              }
+         .skin-blue .main-header .navbar{
+                             background-color:  #000066;
+                             color:  #000000;
+                              }
+         #gene {
+          /* font-size: 16px; */
+          font-weight: bold;
+          color: black;
+          border: 3px solid #4d88ff;
+         }
+
+         /* GO NETWORK MODULE */
+
+         #visNetwork1-resetGO {
+				  background-color: #000066;
+				  color: white;
+				  /* font-size: 16px; */
+				  cursor: pointer;
+				  border: 8px solid #4d88ff;
+				}
+
+				#visNetwork1-resetGO:hover {
+				 background-color: #4d88ff;
+				  color: white;
+				  cursor: pointer;
+				  cursor: hand;
+
+				  border: 8px solid #000066;
+				}
+
+				#visNetwork1-pool {
+				  /* font-size: 16px; */
+				  font-weight: bold;
+				  color: black;
+				}
+
+       /* ALL SIGNATURES MODULE */
+
+       #sigNetworkModule1-compResp {
+			  background-color: #000066;
+			  color: white;
+			  /* font-size: 16px; */
+			  border: 8px solid #4d88ff;
+			}
+
+			 #sigNetworkModule1-compResp:hover {
+				background-color: #4d88ff;
+			  color: white;
+			  cursor: pointer;
+			  cursor: hand;
+
+			  border: 8px solid #000066;
+			}
+
+			 #sigNetworkModule1-resetSig {
+			  background-color: #4d88ff;
+			  color: white;
+			  /* font-size: 16px; */
+			  border-color: #000066;
+			  border: 8px solid #000066;
+			}
+
+			 #sigNetworkModule1-resetSig:hover {
+			  background-color: #000066;
+			  color: white;
+			  cursor: pointer;
+			  cursor: hand;
+
+			  border: 8px solid #4d88ff;
+			}
+
+			 #sigNetworkModule1-poolset {
+			  /* font-size: 16px; */
+			  font-weight: bold;
+			  color: black;
+			        }
+
+			 #sigNetworkModule1-downloadSignatures {
+			  background-color: #000066;
+			  color: #FFFFFF;
+			  /* font-size: 16px; */
+			  border: 2px solid #4d88ff;
+			}
+
+         /* COMPARE SIGNATURES MODULE */
+
+			#CompareResponseModule1-alertsI {
+			   /* font-size: 16px; */
+			   font-family: Arial;
+			   background-color: rgba(255,255,255,0.40);
+			   color: black;
+			   border-style:none;
+			 }
+
+			#CompareResponseModule1-alertsII {
+			   /* font-size: 16px; */
+			   font-family: Arial;
+			   background-color: rgba(255,255,255,0.40);
+			   color: black;
+			   border-style:none;
+			 }
+
+			#CompareResponseModule1-refer {
+			   /* font-size: 16px; */
+			   font-family: Arial;
+			   background-color: rgba(255,255,255,0.40);
+			   color: black;
+			   border-style:none;
+			 }
+
+			#CompareResponseModule1-query {
+			   /* font-size: 16px; */
+			   font-family: Arial;
+			   background-color: rgba(255,255,255,0.40);
+			   color: black;
+			   border-style:none;
+			   }
+
+
+			#CompareResponseModule1-allSigs {
+			  background-color: #000066;
+			  color: white;
+			  /* font-size: 16px; */
+				border: 8px solid #4d88ff;
+			}
+
+			#CompareResponseModule1-allSigs:hover {
+				 background-color: #4d88ff;
+				 color: white;
+				 cursor: pointer;
+				 cursor: hand;
+				 border: 8px solid #000066;
+			}
+
+			#CompareResponseModule1-resetSig {
+			  background-color: #4d88ff;
+			  color: white;
+			  /* font-size: 16px; */
+			  border-color: #000066;
+			  border: 8px solid #000066;
+			}
+
+			#CompareResponseModule1-resetSig:hover {
+			  background-color: #000066;
+			  color: white;
+			  cursor: pointer;
+			  cursor: hand;
+			  border: 8px solid #4d88ff;
+			}
